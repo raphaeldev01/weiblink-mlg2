@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d0b83de.css",
+    "main.js": "/static/js/main.c976b740.js",
+    "static/media/ceo_profile2.png": "/static/media/ceo_profile2.a849dd5d349da028c8a2.png",
+    "static/media/cert-pt.png": "/static/media/cert-pt.90b15d9c1f34d6caea30.png",
+    "static/media/cert-ar.png": "/static/media/cert-ar.b702a8bed4bedaa32b66.png",
+    "static/media/cert-en.png": "/static/media/cert-en.afd55d94d6eeffaead48.png",
+    "static/media/virgin_flag.png": "/static/media/virgin_flag.7a2f9d328cb6c28a723c.png",
+    "static/media/logo_branco.png": "/static/media/logo_branco.12ea459e291b89bd6952.png",
+    "static/media/sugar1.jpg": "/static/media/sugar1.b525f42560ecd3756674.jpg",
+    "static/media/sugar2.jpg": "/static/media/sugar2.e5b6df0847d0aa74fbe6.jpg",
+    "static/media/hero4.webp": "/static/media/hero4.6718f55c4deea74ee7b4.webp",
+    "static/media/soja1.jpg": "/static/media/soja1.3dc8ff6bfb3d57ec1d69.jpg",
+    "static/media/animal4.jpg": "/static/media/animal4.23ae9e015a9657045f85.jpg",
+    "static/media/banner_sust.jpeg": "/static/media/banner_sust.8804a7c56d2c79f876b3.jpeg",
+    "static/media/logo_text.png": "/static/media/logo_text.caab00e2e39cb047e262.png",
+    "static/media/soja3.jpeg": "/static/media/soja3.ce6f7d89d7c161321e08.jpeg",
+    "static/media/hero2.jpg": "/static/media/hero2.ffb7800bcd2958fbbf51.jpg",
+    "static/media/sugar4.webp": "/static/media/sugar4.009b7e2c3279efc1b0c8.webp",
+    "static/media/hero5.webp": "/static/media/hero5.a83e977f44baf9bbeb78.webp",
+    "static/media/animal1.jpg": "/static/media/animal1.4d678b2891835e8837fe.jpg",
+    "static/media/sugar3.webp": "/static/media/sugar3.6a75edd1a61fe7479a46.webp",
+    "static/media/brazil_flag.png": "/static/media/brazil_flag.b670e8604d6bab98ffb8.png",
+    "static/media/hero3.jpg": "/static/media/hero3.74a65a5524b3279108fd.jpg",
+    "static/media/soja4.jpg": "/static/media/soja4.fb0e696910aa3a2331ef.jpg",
+    "static/media/animal2.jpg": "/static/media/animal2.f7e4bd0e871da24b4839.jpg",
+    "static/media/hero1.webp": "/static/media/hero1.e6c11686c2e8754774f5.webp",
+    "static/media/animal3.jpeg": "/static/media/animal3.0adb50798078f0ded83d.jpeg",
+    "static/media/soja2.jpeg": "/static/media/soja2.447f4d8ec7d24a77d97e.jpeg",
+    "index.html": "/index.html",
+    "main.4d0b83de.css.map": "/static/css/main.4d0b83de.css.map",
+    "main.c976b740.js.map": "/static/js/main.c976b740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0b83de.css",
+    "static/js/main.c976b740.js"
+  ]
+}
